@@ -20,6 +20,7 @@ def outer_func():
         print(a)
         print(b)
         x = 'goodbye'
+        print(x)
         y = 'goodbye2'
 
         # print(z)

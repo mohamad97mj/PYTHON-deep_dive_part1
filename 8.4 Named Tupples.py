@@ -20,3 +20,7 @@ print(p2._fields)
 print(point2d._fields)
 # print(point2d._source)
 print(p2._asdict())
+
+# p2._make()
+# p2._replace()
+# new_fields = p2._fields + ('new_field', )
